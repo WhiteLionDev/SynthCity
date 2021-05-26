@@ -1,5 +1,6 @@
 # SynthCity
 Global Game Jam 2018 Project 
+https://globalgamejam.org/2018/games/synthcity
 
 Welcome to the 80' ! help one of two Synth Bands to be the one that plays this night in SynthCity, a dashing 2 player versus game!
 
